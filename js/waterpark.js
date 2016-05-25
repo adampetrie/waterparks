@@ -16,6 +16,23 @@
     }
   });
 
+  var $reviews = $('.ratings-reviews'),
+      reviews_template = _.template($('#reviews-template').text());
+
+  var service = new google.maps.places.PlacesService(document.getElementById('reviews'));
+  service.getDetails(placesRequest, callback);
+
+  function callback(place, status) {
+    if (status == google.maps.places.PlacesServiceStatus.OK) {
+      if (!_.isNil(place.reviews)) {
+        $reviews.children('.reviews-output').html(reviews_template(place));
+        console.log(place);
+      } else {
+        $('.reviews-output').html('<p>No review data found </p>');
+      }
+    }
+  }
+
   $(".map").gmap3({ 
     getgeoloc:{
       callback : function(latLng){

@@ -3,6 +3,7 @@ title: Fallsview Indoor Water Park
 address: Falls Avenue Niagara Falls, ON L2E 6W7
 image_path: images/fallsview
 image_source: Images courtesy of www.fallsviewwaterpark.com.
+google_place_id: ChIJQRRTPBlD04kR5i8gl94VB60
 ---
 Fallsview Indoor Water Park is Niagara’s largest indoor water park.  Standing eight stories high over 125,000 sq. ft. the Fallsview Indoor Water Park is fun for all ages! The water park features:
 

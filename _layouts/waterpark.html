@@ -29,6 +29,11 @@
         {% include ad-block.html ad-slot="6862055242" %}
       </div>
       <div class="row">
+        <div class="col-md-12 ratings-reviews">
+          {% include ratings-reviews.html placeId=page.google_place_id %}
+        </div>
+      </div>
+      <div class="row">
         <div class="col-md-6 weather" data-location="{{ page.address }}">
           {% include weather.html %}
         </div>
@@ -66,9 +71,11 @@
 
     {% include footer.html %}
 
-    <script src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+    <!-- key=AIzaSyAr4A14-_kM4YxOQrW2neikCzvuYJQMOcY -->
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?libraries=places"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.simpleWeather/3.1.0/jquery.simpleWeather.min.js"></script>
     <script src="//cdn.jsdelivr.net/lodash/4.6.1/lodash.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.13.0/moment.min.js"></script>
     
     <script src="{{ site.path }}/js/gmap3.min.js"></script>
     <script src="{{ site.path }}/js/waterpark.js"></script>
