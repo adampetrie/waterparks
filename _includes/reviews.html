@@ -1,0 +1,40 @@
+<h3>
+  <span class="icon fa fa-star-o"></span>
+  Ratings and Reviews
+  <div class="key-line"></div>  
+</h3>
+
+<div id="reviews" class="reviews-output">
+  <div class="loading" >
+    <span class="fa fa-spinner fa-spin"></span>
+    <p>Loading reviews for {{ page.title }}.<br/>Please Wait...</p>
+  </div>
+</div>
+
+<script type="text/template" id="reviews-template">
+    <% _.each(reviews, function(review){ %>
+      <div class="row review">
+        <div class="col-md-2 info">
+          <div><%= review.rating %></div>
+          <div>
+            <% if (_.isNil(review.profile_photo_url)) { %>
+              <span class="avatar"><%= review.author_name.charAt(0) %></span>
+            <% } else { %>
+              <img class="avatar" src="<%= review.profile_photo_url %>" />
+            <% } %>
+          </div>
+          <p><%= review.author_name %></p>
+        </div>
+        <div class="col-md-10">
+          <p class=""><%= review.text %></p>
+        </div>
+      </div>
+    <% }); %>
+    <img class="pull-right" src="/public/assets/images/powered_by_google.png" width="144" height="18"/>
+</script>
+
+<script type="text/javascript">
+  var placesRequest = {
+    'placeId': '{{ include.placeId }}'
+  };
+</script>

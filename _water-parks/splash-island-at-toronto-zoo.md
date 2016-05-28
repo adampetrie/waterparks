@@ -1,6 +1,9 @@
 ---
 title: Splash Island at Toronto Zoo
-address: 361A Old Finch Avenue Toronto, Ontario M1B 5K7
+
+lat: 43.8249775
+lng: -79.18538789999999
+place_id: ChIJb0SXLunZ1IkRbX7-1F-vQqA
 ---
 
 Splash Island at Toronto Zoo is two acres of water park fun. Not only is Splash Island tons of fun it’s also educational and aims to teach children about plants and animals that live in different bodies of water in Canada as well as the water cycle. 

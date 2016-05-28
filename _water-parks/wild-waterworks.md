@@ -1,6 +1,10 @@
 ---
 title: Wild Waterworks
-address: 585 Van Wagners Beach Road Hamilton, Ontario
+
+lat: 43.2522212
+lng: -79.7609866
+place_id: EjY1ODUgVmFuIFdhZ25lcnMgQmVhY2ggUmQsIEhhbWlsdG9uLCBPTiBMOEUgM0w4LCBDYW5hZGE
+
 image_path: images/wild-water-works
 image_source: Images courtesy of Google.
 ---

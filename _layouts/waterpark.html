@@ -29,6 +29,11 @@
         {% include ad-block.html ad-slot="6862055242" %}
       </div>
       <div class="row">
+        <div class="col-md-12 reviews">
+          {% include reviews.html placeId=page.google_place_id %}
+        </div>
+      </div>
+      <div class="row">
         <div class="col-md-6 weather" data-location="{{ page.address }}">
           {% include weather.html %}
         </div>
@@ -68,16 +73,21 @@
 
     <script type="text/javascript">
 
+      var waterpark = new waterparks.Models.WaterPark({
+        lat: {{ page.lat }},
+        lng: {{ page.lng }}
+      });
+
       new waterparks.Views.weatherView({
-        location: '{{ page.address }}',
+        waterpark: waterpark,
         template: '#weather-template',
         el: '.weather-output'
       }).render();
 
-      new waterparks.Views.DirectionsMapView({
-        destination: '{{ page.address }}',
+      var dir = new waterparks.Views.DirectionsMapView({
+        waterpark: waterpark,
         el: '.directions-map'
-      }).render();
+      }).locateUser();
     </script>
 
   </body>
