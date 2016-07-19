@@ -77,6 +77,12 @@ module.exports = function(grunt) {
           cwd: '_assets/images',
           src: ['**'],
           dest: 'public/assets/images/'
+        },
+        {
+          expand: true,
+          cwd: 'bower_components/lightbox2/dist/images',
+          src: ['**'],
+          dest: 'public/assets/images/'
         }]
       }
     },
