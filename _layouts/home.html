@@ -3,6 +3,7 @@
 
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
+      {% include carousel.html carousel=page.carousel %}
       {% include header.html %}
       <div class="container">
         <div class="col-md-5">
@@ -71,6 +72,22 @@
         </div>
       </div>
     </div>
+
     {% include footer.html %}
+
+    <script type="text/javascript">
+    $(function() {
+      $('.slick-carousel').slick({
+        autoplay: true,
+        autoplaySpeed: 5000,
+        arrows: false,
+        draggable: false,
+        infinite: true,
+        speed: 500,
+        fade: true,
+        cssEase: 'linear'
+      });
+    });
+    </script>
   </body>
 </html>

@@ -30,6 +30,7 @@ module.exports = function(grunt) {
           'bower_components/jquery/dist/jquery.min.js',
           'bower_components/bootstrap-sass/assets/javascripts/bootstrap/dropdown.js',
           'bower_components/lightbox2/dist/js/lightbox.min.js',
+          'bower_components/slick-carousel/slick/slick.min.js',
           'bower_components/simpleWeather/jquery.simpleWeather.min.js',
           'bower_components/moment/min/moment.min.js',
           'bower_components/underscore/underscore-min.js',
@@ -42,6 +43,7 @@ module.exports = function(grunt) {
       css: {
         src: [
           'bower_components/lightbox2/dist/css/lightbox.min.css',
+          'bower_components/slick-carousel/slick/slick.css',
           'public/assets/css/style.css'
         ],
         dest: 'public/assets/css/style.css'
@@ -94,6 +96,7 @@ module.exports = function(grunt) {
             'bower_components/jquery/dist/jquery.min.js',
             'bower_components/bootstrap-sass/assets/javascripts/bootstrap/dropdown.js',
             'bower_components/lightbox2/dist/js/lightbox.min.js',
+            'bower_components/slick-carousel/slick/slick.min.js',
             'bower_components/simpleWeather/jquery.simpleWeather.min.js',
             'bower_components/moment/min/moment.min.js',
             'bower_components/underscore/underscore-min.js',
