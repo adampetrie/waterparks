@@ -1,7 +1,9 @@
 ---
 title: Adventure Bay Family Water Park
-description: Water park in Windsor Ontario. Adventure Bay Family Water Park provides over 35,000 square feet of water fun!
 slug: adventure-bay-family-water-park
+description: Water park in Windsor Ontario. Adventure Bay Family Water Park provides over 35,000 square feet of water fun!
+excerpt: Adventure Bay Family Water Park provides over 35,000 square feet of water fun!
+city: Windsor, Ontario
 
 lat: 42.3172986
 lng: -83.0444972

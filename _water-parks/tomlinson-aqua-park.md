@@ -1,7 +1,9 @@
 ---
 title: Tomlinson Aqua Park
-description: Water park in Kingston Ontario. Kingston's favourite water park!
 slug: tomlinson-aqua-park
+description: Water park in Kingston Ontario. Kingston's favourite water park!
+excerpt: Kingston's favourite water park!
+city: Kingston, Ontario
 
 lat: 44.2393619
 lng: -76.49992379999999

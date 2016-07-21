@@ -1,7 +1,9 @@
 ---
 title: Splash Works at Canada's Wonderland
-description: Water park in Toronto Ontario. Splash Works is a 20-acre water park located inside of Canada's Wonderland.
 slug: splash-works-at-canadas-wonderland
+description: Water park in Toronto Ontario. Splash Works is a 20-acre water park located inside of Canada's Wonderland.
+excerpt: Splash Works is a 20-acre water park located inside of Canada's Wonderland.
+city: Toronto, Ontario
 
 lat: 43.84295720000001
 lng: -79.53521309999999

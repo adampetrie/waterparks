@@ -1,7 +1,9 @@
 ---
 title: Wild Water Kingdom
-description: Water park in Brampton Ontario
 slug: wild-water-kingdom
+description: Water park in Brampton Ontario
+excerpt: Closed for the 2016 for major renovations
+city: Brampton, Ontario
 
 lat: 43.7403466
 lng: -79.64198379999999

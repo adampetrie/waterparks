@@ -1,7 +1,9 @@
 ---
 title: Splash Island at Toronto Zoo
-description: Water park in Toronto Ontario. Splash Island at Toronto Zoo is two acres of water park fun.
 slug: splash-island-at-toronto-zoo
+description: Water park in Toronto Ontario. Splash Island at Toronto Zoo is two acres of water park fun.
+excerpt: Splash Island at Toronto Zoo is two acres of water park fun.
+city: Toronto, Ontario
 
 lat: 43.8249775
 lng: -79.18538789999999

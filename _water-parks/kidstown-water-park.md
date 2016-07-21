@@ -1,7 +1,9 @@
 ---
 title: Kidstown Water Park
-description: Water park in Toronto Ontario. Kidstown is the only water park operated by the City of Toronto.
 slug: kidstown-water-park
+description: Water park in Toronto Ontario. Kidstown is the only water park operated by the City of Toronto.
+excerpt: Kidstown is the only water park operated by the City of Toronto.
+city: Scarborough, Ontario
 
 lat: 43.807022
 lng: -79.30943429999999
