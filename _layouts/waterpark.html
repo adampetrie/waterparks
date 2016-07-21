@@ -23,7 +23,16 @@
         </div>
         <div class="col-md-5">
           <div>
-            {% include ad-block.html ad-slot="2176333645" %}
+            {% if page.affiliate_block %}
+              {% include booking-com-affiliate-block.html
+                  aid=page.affiliate_block.aid
+                  dest_id=page.affiliate_block.dest_id
+                  dest_type=page.affiliate_block.dest_type
+                  block_id=page.affiliate_block.block_id
+              %}
+            {% else %}
+              {% include ad-block.html ad-slot="2176333645" %}
+            {% endif %}
           </div>
           <div class="weather" data-location="{{ page.address }}">
             {% include weather.html %}

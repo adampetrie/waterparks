@@ -9,8 +9,13 @@ place_id: ChIJHVr5KDx6KogRBMlCiWrc3tE
 
 image_path: images/plunge-blue-mountain
 image_source: Images courtesy of www.plungebluemountain.ca.
----
 
+affiliate_block:
+  aid: 1159253
+  dest_id: 900048048
+  dest_type: city
+  block_id: 1159310
+---
 Located in the Blue Mountain Village, Plunge is a water park that was inspired by the tradition of cottage-style boathouses.  Featuring indoor and outdoor pools, an indoor water playground, hot tubs, a rope swing, and dock and water slides, there is fun for the whole family!   
 
 #### Hours of Operation 

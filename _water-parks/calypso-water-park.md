@@ -9,6 +9,11 @@ place_id: ChIJmct9UH15zkwR_WUIV_UnpI8
 
 image_path: images/calypso-water-park
 image_source: Images courtesy of Calypso Theme Waterpark Limoges Canada © Copyright 2015.
+affiliate_block:
+  aid: 1159253
+  dest_id: -570760
+  dest_type: city
+  block_id: 1159313
 ---
 
 Calypso is Canada's biggest theme waterpark. The extensive 100-acre facility features more than 35 water slides, over 175 lifeguards and slide attendants, 8 restaurants, an African theme river adventure, Canada's largest wave pool, plus Summit Tower - the tallest waterslide tower in North America! 

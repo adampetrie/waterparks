@@ -9,6 +9,10 @@ place_id: ChIJJ82_bfFE04kRNIeuiOuQ-94
 
 image_path: images/waves-indoor-water-park
 image_source: Images courtesy of www.americananiagara.com.
+affiliate_block:
+  aid: 1159253
+  dest_id: 76338
+  block_id: 1159289
 ---
 Located in the Americana Resort in Niagara Falls, Waves is a 25,000 square foot indoor water park with a retractable roof for year round fun! Waves Indoor Water Park comes complete with a beach entry wave pool, tube and body slides (up to 3 stories high!), kiddy pool interactive play structure, whirlpools, lounge areas and food & bar services.
 

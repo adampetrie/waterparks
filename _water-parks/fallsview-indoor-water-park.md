@@ -9,6 +9,11 @@ place_id: ChIJQRRTPBlD04kR5i8gl94VB60
 
 image_path: images/fallsview-indoor-water-park
 image_source: Images courtesy of www.fallsviewwaterpark.com.
+affiliate_block:
+  aid: 1159253
+  dest_id: 235560
+  dest_type: landmark
+  block_id: 1159309
 ---
 Fallsview Indoor Water Park is Niagara’s largest indoor water park.  Standing eight stories high over 125,000 sq. ft. the Fallsview Indoor Water Park is fun for all ages! The water park features:
 
