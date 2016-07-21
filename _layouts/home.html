@@ -54,10 +54,22 @@
             {{ page.content | markdownify }}
           </div>
         </div>
+      </div> <!-- /container -->
+    </div>
+    <div class="content-wrapper">
+      <div class="container">
+        <h2>
+          <span class="icon fa fa-life-saver"></span>
+          Water Park Listings
+          <div class="key-line"></div>
+        </h2>
+        <div class="row">
+          {% include water-park-cards.html %}
+        </div>
         <div class="row cta">
           <a href="/water-parks" class="btn btn-info btn-lg">Find a Water Park &raquo;</a>
         </div>
-      </div> <!-- /container -->
+      </div>
     </div>
     {% include footer.html %}
   </body>

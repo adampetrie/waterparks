@@ -9,6 +9,7 @@ place_id: ChIJA8CXsrfyLogR40VEDlaBiGU
 
 image_path: images/east-park-water-park
 image_source: Images courtesy of www.eastparkgolf.com.
+thumb: EastPark-14.jpg
 ---
 
 #### Hours of Operation

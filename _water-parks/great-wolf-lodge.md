@@ -9,6 +9,8 @@ place_id: ChIJTyCc-dJc04kRSwmC6PHcp8s
 
 image_path: images/great-wolf-lodge
 image_source: Images courtesy of www.greatwolf.com
+thumb: chipmunk-cove-niagon-3-img5809-1200x500.jpg
+
 affiliate_block:
   aid: 1159253
   dest_id: 76337

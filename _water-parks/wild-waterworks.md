@@ -9,6 +9,7 @@ place_id: ChIJk4XEsaiYLIgRb6g0IZivWn4
 
 image_path: images/wild-water-works
 image_source: Images courtesy of Google.
+thumb: wild-waterworks-1158832-1942122-regular.jpg
 ---
 Located in Confederation Park, just off Centennial Parkway in Hamilton, Wild Waterworks water park offers a perfect place to spend a summer day.  Wild Waterworks features:
 - One of Canada’s largest outdoor wave pools  

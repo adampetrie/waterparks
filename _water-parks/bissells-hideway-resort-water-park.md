@@ -9,6 +9,7 @@ place_id: ChIJAa_6-whM04kRRnwyHBPlMwo
 
 image_path: images/bissells-hideaway-water-park
 image_source: Images courtesy of www.bissellshideaway.com.
+thumb: 1_1438801684_slides-bottom.jpg
 ---
 
 Located in the Niagara area, Bissell’s Hideway features a giant pool and boardwalk, 130ft twister water slide, and a kiddie splash pad.

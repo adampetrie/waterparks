@@ -9,6 +9,7 @@ place_id: ChIJ1V_snq6MK4gRA8suIZwOe_4
 
 image_path: images/bingemans-water-park
 image_source: Images courtesy of Google
+thumb: bingemans5.jpg
 ---
 Located in Kitchener, Bingeman’s Big Splash offers fun and excitement for all ages. Big Splash features water slides, heated wave pool, Spray ‘N’ Play (water park for kids), the FunworX 3-level play structure, outdoor mini golf, Hole in Fun glow-in-the-dark mini golf, and Rocks & Ropes Course.
 

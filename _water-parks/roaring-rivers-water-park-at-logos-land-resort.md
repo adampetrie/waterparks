@@ -9,6 +9,7 @@ place_id: ChIJMUgr2odl0UwRilMHQ9cJCjE
 
 image_path: images/logos-land-water-park
 image_source: Images courtesy of Google.
+thumb: 776981103_1362771437.jpg
 ---
 
 Logos Land Resort is a family friendly destination in the Ottawa Valley.

@@ -9,6 +9,8 @@ place_id: ChIJJ82_bfFE04kRNIeuiOuQ-94
 
 image_path: images/waves-indoor-water-park
 image_source: Images courtesy of www.americananiagara.com.
+thumb: waterpark-3.jpg
+
 affiliate_block:
   aid: 1159253
   dest_id: 76338

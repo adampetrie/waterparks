@@ -9,6 +9,8 @@ place_id: ChIJmct9UH15zkwR_WUIV_UnpI8
 
 image_path: images/calypso-water-park
 image_source: Images courtesy of Calypso Theme Waterpark Limoges Canada © Copyright 2015.
+thumb: boomerango_122938984.jpg
+
 affiliate_block:
   aid: 1159253
   dest_id: -570760

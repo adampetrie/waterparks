@@ -9,6 +9,7 @@ place_id: ChIJHVr5KDx6KogRBMlCiWrc3tE
 
 image_path: images/plunge-blue-mountain
 image_source: Images courtesy of www.plungebluemountain.ca.
+thumb: pic4.jpg
 
 affiliate_block:
   aid: 1159253

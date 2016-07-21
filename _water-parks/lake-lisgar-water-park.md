@@ -9,6 +9,7 @@ place_id: ChIJQey0IfsrLIgRjIWfE22hqms
 
 image_path: images/lake-lisgar-water-park
 image_source: Images courtesy of Google.
+thumb: lake-lisgar-waterpark.jpg
 ---
 
 Lake Lisgar Water Park is owned and operated by the Town of Tillsonburg.  Fun for all ages, the water park features inflatable rafts and slides, individual inflatable tubes, spray features from various heights, a giant twister waterslide (*must be 42" inches to ride), lifeguards on duty and a snack bar (open 12-5pm)

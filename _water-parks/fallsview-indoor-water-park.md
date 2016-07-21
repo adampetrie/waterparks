@@ -9,6 +9,8 @@ place_id: ChIJQRRTPBlD04kR5i8gl94VB60
 
 image_path: images/fallsview-indoor-water-park
 image_source: Images courtesy of www.fallsviewwaterpark.com.
+thumb: slides.jpg
+
 affiliate_block:
   aid: 1159253
   dest_id: 235560
