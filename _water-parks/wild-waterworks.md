@@ -3,15 +3,17 @@ title: Wild Waterworks
 slug: wild-waterworks
 description: Water park in Hamilton Ontario. Wild Waterworks water park offers a perfect place to spend a summer day.
 excerpt: Wild Waterworks water park offers a perfect place to spend a summer day.
-city: Hamilton, Ontario
 
-lat: 43.2522212
-lng: -79.7609866
-place_id: ChIJk4XEsaiYLIgRb6g0IZivWn4
+location:
+  city: Hamilton, Ontario
+  lat: 43.2522212
+  lng: -79.7609866
+  place_id: ChIJk4XEsaiYLIgRb6g0IZivWn4
 
-image_path: images/wild-water-works
-image_source: Images courtesy of Google.
-thumb: wild-waterworks-1158832-1942122-regular.jpg
+images:
+  path: images/wild-water-works
+  thumb: wild-waterworks-1158832-1942122-regular.jpg
+  credit: Images courtesy of Google.
 ---
 Located in Confederation Park, just off Centennial Parkway in Hamilton, Wild Waterworks water park offers a perfect place to spend a summer day.  Wild Waterworks features:
 - One of Canada’s largest outdoor wave pools  

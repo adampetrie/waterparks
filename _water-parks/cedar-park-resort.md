@@ -3,11 +3,12 @@ title: Cedar Park Resort
 slug: cedar-park-resort
 description: Water park near Oshawa Ontario. Cedar Park Resort is a family campground and water park.
 excerpt: Cedar Park Resort is a family campground and water park.
-city: Near Oshawa, Ontario
-
-lat: 43.9907347
-lng: -78.73742109999999
-place_id: ChIJmfdDIQMG1YkRv_vqt1tf-Ic
+  
+location:
+  city: Near Oshawa, Ontario
+  lat: 43.9907347
+  lng: -78.73742109999999
+  place_id: ChIJmfdDIQMG1YkRv_vqt1tf-Ic
 ---
 
 Cedar Park Resort is a family campground and water park just north of the town of Bowmanville.

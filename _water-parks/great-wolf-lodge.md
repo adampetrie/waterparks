@@ -3,15 +3,17 @@ title: Great Wolf Lodge
 slug: great-wolf-lodge
 description: Water park in Niagara Falls Ontario. Great Wolf Lodge is designed for family togetherness and built for maximum fun.
 excerpt: Great Wolf Lodge is designed for family togetherness and built for maximum fun.
-city: Niagara Falls, Ontario
+  
+location:
+  city: Niagara Falls, Ontario
+  lat: 43.1163688
+  lng: -79.070922
+  place_id: ChIJTyCc-dJc04kRSwmC6PHcp8s
 
-lat: 43.1163688
-lng: -79.070922
-place_id: ChIJTyCc-dJc04kRSwmC6PHcp8s
-
-image_path: images/great-wolf-lodge
-image_source: Images courtesy of www.greatwolf.com
-thumb: chipmunk-cove-niagon-3-img5809-1200x500.jpg
+images:
+  path: images/great-wolf-lodge
+  thumb: chipmunk-cove-niagon-3-img5809-1200x500.jpg
+  credit: Images courtesy of www.greatwolf.com
 
 affiliate_block:
   aid: 1159253

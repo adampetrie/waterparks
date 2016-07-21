@@ -3,15 +3,17 @@ title: Roaring Rivers Water Park at Logos Land Resort
 slug: roaring-rivers-water-park-at-logos-land-resort
 description: Water park near Ottawa Ontario. Logos Land Resort is a family friendly destination in the Ottawa Valley.
 excerpt: Logos Land Resort is a family friendly destination in the Ottawa Valley.
-city: Near Ottawa, Ontario
 
-lat: 45.5994788
-lng: -76.84414919999999
-place_id: ChIJMUgr2odl0UwRilMHQ9cJCjE
+location:
+  city: Near Ottawa, Ontario
+  lat: 45.5994788
+  lng: -76.84414919999999
+  place_id: ChIJMUgr2odl0UwRilMHQ9cJCjE
 
-image_path: images/logos-land-water-park
-image_source: Images courtesy of Google.
-thumb: 776981103_1362771437.jpg
+images:
+  path: images/logos-land-water-park
+  thumb: 776981103_1362771437.jpg
+  credit: Images courtesy of Google.
 ---
 
 Logos Land Resort is a family friendly destination in the Ottawa Valley.

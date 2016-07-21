@@ -3,15 +3,17 @@ title: Calypso Water Park
 slug: calypso-water-park
 description: Water park near Ottawa Ontario. Calypso is Canada's biggest theme waterpark.
 excerpt: Calypso is Canada's biggest theme waterpark.
-city: Near Ottawa, Ontario
+  
+location:
+  city: Near Ottawa, Ontario
+  lat: 45.3146675
+  lng: -75.21954269999999
+  place_id: ChIJmct9UH15zkwR_WUIV_UnpI8
 
-lat: 45.3146675
-lng: -75.21954269999999
-place_id: ChIJmct9UH15zkwR_WUIV_UnpI8
-
-image_path: images/calypso-water-park
-image_source: Images courtesy of Calypso Theme Waterpark Limoges Canada © Copyright 2015.
-thumb: boomerango_122938984.jpg
+images:
+  path: images/calypso-water-park
+  thumb: boomerango_122938984.jpg
+  credit: Images courtesy of Calypso Theme Waterpark Limoges Canada © Copyright 2015.
 
 affiliate_block:
   aid: 1159253

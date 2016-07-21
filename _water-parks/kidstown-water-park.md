@@ -3,15 +3,17 @@ title: Kidstown Water Park
 slug: kidstown-water-park
 description: Water park in Toronto Ontario. Kidstown is the only water park operated by the City of Toronto.
 excerpt: Kidstown is the only water park operated by the City of Toronto.
-city: Scarborough, Ontario
+  
+location:
+  city: Scarborough, Ontario
+  lat: 43.807022
+  lng: -79.30943429999999
+  place_id: ChIJsQiMmOvT1IkRvT6blRrUt9E
 
-lat: 43.807022
-lng: -79.30943429999999
-place_id: ChIJsQiMmOvT1IkRvT6blRrUt9E
-
-image_path: images/kidstown-water-park
-image_source: Images courtesy of Google.
-thumb: 2.jpg
+images:
+  path: images/kidstown-water-park
+  thumb: 2.jpg
+  credit: Images courtesy of Google.
 ---
 
 Kidstown is the only water park operated by the City of Toronto. It is one of Scarborough's most popular outdoor aquatic facilities for preschool and grade school children. It offers a variety of water features, including a tipping bucket, spray rings, squirting aquatic animals, a slide, wading pool, splash pad and so much more. Families enjoy the grassy picnic area, which is suitable for watching older children while enjoying the park atmosphere. 

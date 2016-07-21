@@ -34,10 +34,10 @@
       $(function() {
         var waterparkData = [
           {% for waterpark in site.water-parks %}
-            {% if (waterpark.lat && waterpark.lng) %}
+            {% if (waterpark.location.lat && waterpark.location.lng) %}
               {
-                "lat": {{ waterpark.lat }},
-                "lng": {{ waterpark.lng }},
+                "lat": {{ waterpark.location.lat }},
+                "lng": {{ waterpark.location.lng }},
                 "url": "{{waterpark.url}}",
                 "name": "{{waterpark.title}}"
               },

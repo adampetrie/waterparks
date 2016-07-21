@@ -38,7 +38,10 @@
             {% include weather.html %}
           </div>
           <div class="photos">
-            {% include photos.html path=page.image_path source=page.image_source %}
+            {% include photos.html
+                path=page.images.path
+                source=page.images.credit
+            %}
           </div>
           </div>
         </div>
@@ -84,9 +87,9 @@
 
       $(function() {
         var waterpark = new waterparks.Models.WaterPark({
-          lat: {{ page.lat }},
-          lng: {{ page.lng }},
-          placeId: "{{ page.place_id }}"
+          lat: {{ page.location.lat }},
+          lng: {{ page.location.lng }},
+          placeId: "{{ page.location.place_id }}"
         });
 
         var reviews = new waterparks.Collections.Reviews({

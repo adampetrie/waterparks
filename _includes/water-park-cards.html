@@ -5,8 +5,8 @@
         <a href="{{ waterpark.url }}" class="">
           <div class="row">
             <div class="col-sm-4">
-              {% if waterpark.thumb %}
-                <img class="img-thumbnail" src="{{page.asset_path}}{{waterpark.image_path}}/{{ waterpark.thumb }}" alt="{{ waterpark.title }}"/>
+              {% if waterpark.images.thumb %}
+                <img class="img-thumbnail" src="{{page.asset_path}}{{waterpark.images.path}}/{{ waterpark.images.thumb }}" alt="{{ waterpark.title }}"/>
               {% else %}
                 <i class="fa fa-picture-o" aria-hidden="true"></i>
               {% endif %}
@@ -14,7 +14,7 @@
             <div class="col-sm-8 clearfix">
               <h4>{{ waterpark.title }}</h4>
               <p>{{ waterpark.excerpt }}</p>
-              <span class="pull-right">{{ waterpark.city }}</span>
+              <span class="pull-right">{{ waterpark.location.city }}</span>
             </div>
           </div>
         </a>

@@ -3,15 +3,17 @@ title: East Park Water Park
 slug: east-park-water-park
 description: Water park in London Ontario. East Park is home to the biggest and best waterpark for miles around!
 excerpt: East Park is home to the biggest and best waterpark for miles around!
-city: London, Ontario
+  
+location:
+  city: London, Ontario
+  lat: 42.9717892
+  lng: -81.1663465
+  place_id: ChIJA8CXsrfyLogR40VEDlaBiGU
 
-lat: 42.9717892
-lng: -81.1663465
-place_id: ChIJA8CXsrfyLogR40VEDlaBiGU
-
-image_path: images/east-park-water-park
-image_source: Images courtesy of www.eastparkgolf.com.
-thumb: EastPark-14.jpg
+images:
+  path: images/east-park-water-park
+  thumb: EastPark-14.jpg
+  credit: Images courtesy of www.eastparkgolf.com.
 ---
 
 #### Hours of Operation

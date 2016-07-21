@@ -3,24 +3,26 @@ title: Splash Island at Toronto Zoo
 slug: splash-island-at-toronto-zoo
 description: Water park in Toronto Ontario. Splash Island at Toronto Zoo is two acres of water park fun.
 excerpt: Splash Island at Toronto Zoo is two acres of water park fun.
-city: Toronto, Ontario
 
-lat: 43.8249775
-lng: -79.18538789999999
-place_id: ChIJwZ840e3Z1IkRpSAUGz5FbHo
+location:
+  city: Toronto, Ontario
+  lat: 43.8249775
+  lng: -79.18538789999999
+  place_id: ChIJwZ840e3Z1IkRpSAUGz5FbHo
 
-image_path: images/splash-island-toronto-zoo
-image_source: Images courtesy of Google.
-thumb: splash-island.jpg
+images:
+  path: images/splash-island-toronto-zoo
+  thumb: splash-island.jpg
+  credit: Images courtesy of Google.
 ---
 
 Splash Island at Toronto Zoo is two acres of water park fun. Not only is Splash Island tons of fun it’s also educational and aims to teach children about plants and animals that live in different bodies of water in Canada as well as the water cycle. 
 
 ### Hours of Operation
 
-May 21, 2016- June 30, 2016: Open weekends and holidays only from 10:30am to 6:00pm  
+May 21, 2016 - June 30, 2016: Open weekends and holidays only from 10:30am to 6:00pm  
 July 1, 2016 - September 5, 2016: open daily from 10:30am to 6:00pm  
-Se[tember 6, 2-16 - Septemer 11, 2016: open weekends and holidays only from 10:30am to 5:30pm 
+September 6, 2-16 - September 11, 2016: open weekends and holidays only from 10:30am to 5:30pm  
 September 14, 2016: closed for the season 
 
 ### Location

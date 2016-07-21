@@ -3,15 +3,17 @@ title: Waves Indoor Water Park
 slug: waves-indoor-water-park
 description: Water park in Niagara Falls Ontario. Waves is a 25,000 square foot indoor water park with a retractable roof for year round fun!
 excerpt: Waves is a 25,000 square foot indoor water park with a retractable roof for year round fun!
-city: Niagara Falls, Ontario
 
-lat: 43.087769
-lng: -79.13921449999999
-place_id: ChIJJ82_bfFE04kRNIeuiOuQ-94
+location:
+  city: Niagara Falls, Ontario
+  lat: 43.087769
+  lng: -79.13921449999999
+  place_id: ChIJJ82_bfFE04kRNIeuiOuQ-94
 
-image_path: images/waves-indoor-water-park
-image_source: Images courtesy of www.americananiagara.com.
-thumb: waterpark-3.jpg
+images:
+  path: images/waves-indoor-water-park
+  thumb: waterpark-3.jpg
+  credit: Images courtesy of www.americananiagara.com.
 
 affiliate_block:
   aid: 1159253

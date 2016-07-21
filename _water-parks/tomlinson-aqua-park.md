@@ -3,15 +3,17 @@ title: Tomlinson Aqua Park
 slug: tomlinson-aqua-park
 description: Water park in Kingston Ontario. Kingston's favourite water park!
 excerpt: Kingston's favourite water park!
-city: Kingston, Ontario
+  
+location:
+  city: Kingston, Ontario
+  lat: 44.2393619
+  lng: -76.49992379999999
+  place_id: ChIJ7eQMJ6Sr0kwRrHFI3-kBwcM
 
-lat: 44.2393619
-lng: -76.49992379999999
-place_id: ChIJ7eQMJ6Sr0kwRrHFI3-kBwcM
-
-image_path: images/tomlinson-water-park
-image_source: Images courtesy of Google.
-thumb: CMsib6lUAAAeP7R.jpg
+images:
+  path: images/tomlinson-water-park
+  thumb: CMsib6lUAAAeP7R.jpg
+  credit: Images courtesy of Google.
 ---
 
 Kingston's favourite waterpark offers a 10-metre water slide, a lazy river, toddler pool, family and accessible change rooms, shaded areas and zero-beach entry.
