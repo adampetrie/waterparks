@@ -29,6 +29,7 @@ waterparks.Views.BigMapView = Backbone.View.extend({
     this.map = new google.maps.Map(mapNode, {
       mapTypeId: google.maps.MapTypeId.ROADMAP,
       zoom: 7,
+      scrollwheel: false,
       // Center on Oshawa, ON so that all markers are visible
       center: {lat: 43.8970929, lng: -78.86579119999999}
     });
