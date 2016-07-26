@@ -8,16 +8,44 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-concurrent');
   grunt.loadNpmTasks('grunt-exec');
 
+  var sources = {
+    javascript: [
+      'bower_components/jquery/dist/jquery.min.js',
+      'bower_components/bootstrap-sass/assets/javascripts/bootstrap/dropdown.js',
+      'bower_components/bootstrap-sass/assets/javascripts/bootstrap/collapse.js',
+      'bower_components/bootstrap-sass/assets/javascripts/bootstrap/transition.js',
+      'bower_components/lightbox2/dist/js/lightbox.min.js',
+      'bower_components/slick-carousel/slick/slick.min.js',
+      'bower_components/simpleWeather/jquery.simpleWeather.min.js',
+      'bower_components/moment/min/moment.min.js',
+      'bower_components/underscore/underscore-min.js',
+      'bower_components/backbone/backbone.js',
+      '_assets/js/main.js',
+      '_assets/js/*/*.js'
+    ],
+    sass: [
+      'bower_components/bootstrap-sass/assets/stylesheets',
+      'bower_components/weather-icons/sass',
+      'bower_components/font-awesome/scss'
+    ],
+    css: [
+      'bower_components/lightbox2/dist/css/lightbox.min.css',
+      'bower_components/slick-carousel/slick/slick.css',
+      'public/assets/css/style.css'
+    ],
+    fonts: [
+      'bootstrap-sass/assets/fonts/bootstrap/*',
+      'weather-icons/font/*',
+      'font-awesome/fonts/*'
+    ]
+  };
+
   grunt.initConfig({
     sass: {
       dev: {
         options: {
           style: 'expanded',
-          loadPath: [
-            'bower_components/bootstrap-sass/assets/stylesheets',
-            'bower_components/weather-icons/sass',
-            'bower_components/font-awesome/scss'
-          ],
+          loadPath: sources.sass,
         },
         files: {
           'public/assets/css/style.css': '_assets/css/style.scss'
@@ -27,54 +55,24 @@ module.exports = function(grunt) {
 
     concat: {
       javascript: {
-        src: [
-          'bower_components/jquery/dist/jquery.min.js',
-          'bower_components/bootstrap-sass/assets/javascripts/bootstrap/dropdown.js',
-          'bower_components/bootstrap-sass/assets/javascripts/bootstrap/collapse.js',
-          'bower_components/bootstrap-sass/assets/javascripts/bootstrap/transition.js',
-          'bower_components/lightbox2/dist/js/lightbox.min.js',
-          'bower_components/slick-carousel/slick/slick.min.js',
-          'bower_components/simpleWeather/jquery.simpleWeather.min.js',
-          'bower_components/moment/min/moment.min.js',
-          'bower_components/underscore/underscore-min.js',
-          'bower_components/backbone/backbone.js',
-          '_assets/js/main.js',
-          '_assets/js/*/*.js'
-        ],
+        src: sources.javascript,
         dest: 'public/assets/js/main.min.js'
       },
       css: {
-        src: [
-          'bower_components/lightbox2/dist/css/lightbox.min.css',
-          'bower_components/slick-carousel/slick/slick.css',
-          'public/assets/css/style.css'
-        ],
+        src: sources.css,
         dest: 'public/assets/css/style.css'
       }
     },
 
     copy: {
       fonts: {
-        files: [
-          {
-            expand: true,
-            cwd: 'bower_components/bootstrap-sass/assets/fonts/bootstrap/',
-            src: ['*'],
-            dest: 'public/assets/fonts/bootstrap/'
-          },
-          {
-            expand: true,
-            cwd: 'bower_components/weather-icons/font/',
-            src: ['*'],
-            dest: 'public/assets/fonts/weather-icons/'
-          },
-          {
-            expand: true,
-            cwd: 'bower_components/font-awesome/fonts/',
-            src: ['*'],
-            dest: 'public/assets/fonts/font-awesome/'
-          },
-        ]
+        files: [{
+          expand: true,
+          cwd: 'bower_components/',
+          src: sources.fonts,
+          dest: 'public/assets/fonts/',
+          flatten: true
+        }]
       },
       images: {
         files: [{
@@ -95,18 +93,7 @@ module.exports = function(grunt) {
     uglify: {
       javascript: {
         files: {
-          'public/assets/js/main.min.js': [
-            'bower_components/jquery/dist/jquery.min.js',
-            'bower_components/bootstrap-sass/assets/javascripts/bootstrap/dropdown.js',
-            'bower_components/lightbox2/dist/js/lightbox.min.js',
-            'bower_components/slick-carousel/slick/slick.min.js',
-            'bower_components/simpleWeather/jquery.simpleWeather.min.js',
-            'bower_components/moment/min/moment.min.js',
-            'bower_components/underscore/underscore-min.js',
-            'bower_components/backbone/backbone.js',
-            '_assets/js/main.js',
-            '_assets/js/*/*.js'
-          ]
+          'public/assets/js/main.min.js': sources.javascript
         }
       }
     },
