@@ -48,6 +48,7 @@ exclude:
   - s3_website.yml
   - node_modules
   - bower_components
+  - vendor
 
 gems:
   - jekyll-seo-tag
