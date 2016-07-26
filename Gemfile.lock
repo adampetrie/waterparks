@@ -46,10 +46,11 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  jekyll
   jekyll-seo-tag
   jekyll-watch
   kramdown
   s3_website
 
 BUNDLED WITH
-   1.11.2
+   1.12.5

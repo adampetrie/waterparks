@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
-gem 's3_website'
+gem 'jekyll'
 gem 'jekyll-watch'
-gem 'kramdown'
 gem 'jekyll-seo-tag'
+
+gem 's3_website'
+gem 'kramdown'
