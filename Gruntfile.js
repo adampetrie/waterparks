@@ -107,7 +107,11 @@ module.exports = function(grunt) {
       },
       css: {
         files: ['_assets/css/**/*.scss'],
-        tasks: ['build_css']
+        tasks: ['sass', 'concat:css']
+      },
+      images: {
+        files: ['_assets/images/**/*'],
+        tasks: ['copy:images']
       }
     },
 
