@@ -36,7 +36,7 @@ module.exports = function(grunt) {
 
   grunt.initConfig({
     sass: {
-      dev: {
+      default: {
         options: {
           style: 'expanded',
           loadPath: sources.sass,
@@ -85,7 +85,7 @@ module.exports = function(grunt) {
     },
 
     uglify: {
-      javascript: {
+      default: {
         files: {
           'public/assets/js/main.min.js': sources.javascript
         }
