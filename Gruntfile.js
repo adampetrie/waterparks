@@ -92,6 +92,14 @@ module.exports = function(grunt) {
       }
     },
 
+    cssmin: {
+      default: {
+        files: {
+          'public/assets/css/style.min.css': sources.css
+        }
+      }
+    },
+
     watch: {
       javascript: {
         files: ['_assets/js/**/*.js'],
@@ -102,6 +110,8 @@ module.exports = function(grunt) {
         tasks: ['build_css']
       }
     },
+
+    clean: [ 'public'],
 
     exec: {
       serve: {
@@ -121,8 +131,10 @@ module.exports = function(grunt) {
   });
 
   // Default task(s).
-  grunt.registerTask('build_css', ['sass:dev', 'concat:css'])
-  grunt.registerTask('serve', ['sass:dev', 'copy', 'concat', 'concurrent:serve']);
-  grunt.registerTask('deploy', ['sass:dev', 'copy', 'uglify', 'concat:css', 'exec:deploy']);
+  grunt.registerTask('default', ['clean', 'sass', 'copy']);
+  grunt.registerTask('build_dev', ['default', 'concat']);
+  grunt.registerTask('build_prod', ['default', 'uglify', 'cssmin']);
+  grunt.registerTask('serve', ['build_dev',  'concurrent:serve']);
+  grunt.registerTask('deploy', ['build_prod', 'exec:deploy']);
 
 };
