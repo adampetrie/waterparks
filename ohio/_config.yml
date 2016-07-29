@@ -1,0 +1,61 @@
+# Site Settings...
+title: Water Parks in Ohio
+description: Water Parks in Ohio is your destination for information on water parks in the Buckeye State
+url: http://www.waterparksinohio.net
+google_site_verification: tOSOsHPUFbs7VsR11lF0wv8-DPs3u7ggVZjqIJKxpwY
+google_analytics_ua: UA-31086749-3
+google_maps_api_key: AIzaSyD0mPE3stX3e8EAKm-rEZsRfeops9PxNkc
+
+theme: waterparks-theme
+
+offline: false
+
+collections:
+  water-parks:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      asset_path: /public/assets/
+      disclaimer: >
+        At Water Parks in Ohio we strive to keep our listings as up to date as possible but nobody's perfect.
+        In the event of a disagreement between a water park and this website, the water park shall take precedence.
+      footer_disclaimer: >
+        Water Parks in Ohio is not directly affiliated with any of the water parks listed on this website.
+        In the event of a disagreement between a water park and this website, the water park shall take precedence.
+      big_map:
+        lat: 39.9611755
+        lng: -82.99879419999999
+  -
+    scope:
+      path: ""
+      type: "water-parks"
+    values:
+      layout: "waterpark"
+
+# Build Settings...
+permalink: pretty
+
+markdown: kramdown
+
+sass:
+  sass_dir: css
+  style:    expanded
+
+exclude:
+  - README.md
+  - package.json
+  - Gruntfile.js
+  - Gemfile
+  - Gemfile.lock
+  - bower.json
+  - s3_website.yml
+  - node_modules
+  - bower_components
+  - vendor
+
+gems:
+  - jekyll-seo-tag

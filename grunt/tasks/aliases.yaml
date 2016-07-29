@@ -1,0 +1,32 @@
+default:
+  description: Base tasks that are always run
+  tasks:
+    - 'clean'
+    - 'sass'
+    - 'copy'
+    - 'imagemin'
+
+build_dev:
+  description: Build a development version of a jekyll site
+  tasks:
+    - 'default'
+    - 'concat'
+
+build_prod:
+  description: Build a production version of a jekyll site
+  tasks:
+    - 'default'
+    - 'uglify'
+    - 'cssmin'
+
+serve:
+  description: Build and serve a development version of a Jekyll site
+  tasks:
+    - 'build_dev'
+    - 'concurrent:serve'
+
+deploy:
+  description: Build and deploy production version of Jekyll site to S3
+  tasks:
+    - 'build_prod'
+    - 'exec:deploy'

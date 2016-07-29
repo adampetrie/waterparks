@@ -1,0 +1,28 @@
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-md-push-6 text-right">
+        <span>&copy; {{ 'now' | date: "%Y" }} Waterparks in Ontario</span> | <a href="/privacy-policy">Privacy Policy & Terms</a> | <a href="mailto:contact@waterparksinontario.ca">Contact Us</a>
+      </div>
+      <div class="col-md-6 col-md-pull-6">
+        <p>Made with <i class="glyphicon glyphicon-heart"></i> in Ontario.</p>
+        <p class="disclaimer">{{ page.footer_disclaimer }}</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyAr4A14-_kM4YxOQrW2neikCzvuYJQMOcY&libraries=places"></script>
+<script src="{{ site.path }}/public/assets/js/main.min.js"></script>
+
+{% if jekyll.environment == "production" %}
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-31086749-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+{% endif %}

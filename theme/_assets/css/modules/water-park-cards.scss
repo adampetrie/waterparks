@@ -1,0 +1,26 @@
+.water-park-card {
+  .panel {
+    min-height: $water-parks-card-height;
+
+    &:hover {
+      border-color: $link-hover-color;
+    }
+  }
+
+  a {
+    color: $theme-primary-font-color;
+    cursor: pointer;
+  }
+
+  .fa-picture-o {
+    font-size: 120px;
+  }
+
+  p {
+    margin-top: 10px;
+  }
+
+  span {
+    font-size: 12px;
+  }
+}
