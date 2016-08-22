@@ -3,6 +3,8 @@ title: 'Water Parks in Ontario'
 description: 'Water Parks in Ontario is the most comprehensive website with the most up-to-date information on water parks in Ontario.'
 url: 'http://www.waterparksinontario.ca'
 google_site_verification: HzIj0S2-E0wk4abmcb7kIvQo-d_FBDI4j8eSupV18Ek
+google_analytics_ua: UA-31086749-1
+google_maps_api_key: AIzaSyAr4A14-_kM4YxOQrW2neikCzvuYJQMOcY
 
 theme: waterparks-theme
 
