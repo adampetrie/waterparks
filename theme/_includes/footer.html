@@ -15,6 +15,26 @@
 <script src="http://maps.googleapis.com/maps/api/js?key={{ site.google_maps_api_key }}&libraries=places"></script>
 <script src="{{ site.path }}/public/assets/js/main.min.js"></script>
 
+<script>
+  var waterparkData = new waterparks.Collections.WaterParks([
+    {% for waterpark in site.water-parks %}
+      {
+        "id":       "{{ waterpark.slug }}",
+        "placeId":  "{{ waterpark.location.place_id }}",
+        "url":      "{{ waterpark.url }}",
+        "name":     "{{ waterpark.title }}",
+        "lat":      {{ waterpark.location.lat }},
+        "lng":      {{ waterpark.location.lng }}
+      },
+    {% endfor %}
+  ]);
+
+  var bigMapLatLng = {
+    'lat': {{ page.big_map.lat }},
+    'lng': {{ page.big_map.lng }}
+  };
+</script>
+
 {% if jekyll.environment == "production" %}
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
