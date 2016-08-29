@@ -1,87 +1,81 @@
-{% include html-head.html %}
-  <body>
+---
+layout: default
+---
 
-    {% include header.html %}
-
-    <div class="container waterpark">
-      <div class="row banner-margin-top banner-margin-bottom">
-        {% include ad-block.html ad-slot="9146040448" %}
+  <div class="container waterpark">
+    <div class="row banner-margin-top banner-margin-bottom">
+      {% include ad-block.html ad-slot="9146040448" %}
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <h1>
+          <span class="icon fa fa-life-saver"></span>
+          {{ page.title }}
+          <div class="key-line"></div>
+        </h1>
       </div>
+    </div>
+    <div class="row">
+      <div class="col-md-7 info">
+        {{ content | markdownify }}
+        <p class="disclaimer">{{ page.disclaimer }}</p>
+      </div>
+      <div class="col-md-5">
+        <div>
+          {% if page.affiliate_block %}
+            {% include booking-com-affiliate-block.html
+                aid=page.affiliate_block.aid
+                dest_id=page.affiliate_block.dest_id
+                dest_type=page.affiliate_block.dest_type
+                block_id=page.affiliate_block.block_id
+            %}
+          {% else %}
+            {% include ad-block.html ad-slot="2176333645" %}
+          {% endif %}
+        </div>
+        <div class="weather" data-location="{{ page.address }}">
+          {% include weather.html %}
+        </div>
+        <div class="photos">
+          {% include photos.html
+              path=page.images.path
+              source=page.images.credit
+          %}
+        </div>
+        </div>
+      </div>
+    <div class="row banner-margin-top banner-margin-bottom">
+      {% include ad-block.html ad-slot="6862055242" %}
+    </div>
+    <div class="row">
+      <div class="col-md-12 reviews">
+        {% include reviews.html %}
+      </div>
+    </div>
+  </div>
+  
+  <div class="map-wrapper">
+    <div class="container getting-there">
       <div class="row">
         <div class="col-md-12">
-          <h1>
-            <span class="icon fa fa-life-saver"></span>
-            {{ page.title }}
+          <h3>
+            <span class="icon fa fa-car"></span>
+            Getting There
             <div class="key-line"></div>
-          </h1>
+          </h3>
         </div>
       </div>
       <div class="row">
-        <div class="col-md-7 info">
-          {{ content | markdownify }}
-          <p class="disclaimer">{{ page.disclaimer }}</p>
+        <div class="loading" >
+          <span class="fa fa-spinner fa-spin"></span>
+          <p>Loading map and directions to {{ page.title }}.<br/>Please Wait...</p>
         </div>
-        <div class="col-md-5">
-          <div>
-            {% if page.affiliate_block %}
-              {% include booking-com-affiliate-block.html
-                  aid=page.affiliate_block.aid
-                  dest_id=page.affiliate_block.dest_id
-                  dest_type=page.affiliate_block.dest_type
-                  block_id=page.affiliate_block.block_id
-              %}
-            {% else %}
-              {% include ad-block.html ad-slot="2176333645" %}
-            {% endif %}
-          </div>
-          <div class="weather" data-location="{{ page.address }}">
-            {% include weather.html %}
-          </div>
-          <div class="photos">
-            {% include photos.html
-                path=page.images.path
-                source=page.images.credit
-            %}
-          </div>
-          </div>
+        <div class="col-md-6">
+          <div class="directions-map map"></div>
         </div>
-      <div class="row banner-margin-top banner-margin-bottom">
-        {% include ad-block.html ad-slot="6862055242" %}
-      </div>
-      <div class="row">
-        <div class="col-md-12 reviews">
-          {% include reviews.html %}
+        <div class="col-md-6">
+          <div class="directions"></div>
         </div>
       </div>
     </div>
-    
-    <div class="map-wrapper">
-      <div class="container getting-there">
-        <div class="row">
-          <div class="col-md-12">
-            <h3>
-              <span class="icon fa fa-car"></span>
-              Getting There
-              <div class="key-line"></div>
-            </h3>
-          </div>
-        </div>
-        <div class="row">
-          <div class="loading" >
-            <span class="fa fa-spinner fa-spin"></span>
-            <p>Loading map and directions to {{ page.title }}.<br/>Please Wait...</p>
-          </div>
-          <div class="col-md-6">
-            <div class="directions-map map"></div>
-          </div>
-          <div class="col-md-6">
-            <div class="directions"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    {% include footer.html %}
-
-  </body>
-</html>
+  </div>
