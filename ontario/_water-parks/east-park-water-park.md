@@ -12,7 +12,7 @@ location:
 
 images:
   path: images/east-park-water-park
-  thumb: EastPark-14.jpg
+  thumb: water_slides-thumb.jpg
   credit: Images courtesy of www.eastparkgolf.com.
 ---
 

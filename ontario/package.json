@@ -20,6 +20,7 @@
     "grunt-contrib-uglify": "^1.0.1",
     "grunt-contrib-watch": "^1.0.0",
     "grunt-exec": "^0.4.7",
+    "grunt-responsive-images": "^0.1.9",
     "imagemin-mozjpeg": "5.1.0",
     "load-grunt-config": "^0.19.2",
     "load-grunt-tasks": "^3.5.0"

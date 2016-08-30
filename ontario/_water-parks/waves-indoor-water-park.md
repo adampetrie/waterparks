@@ -12,7 +12,7 @@ location:
 
 images:
   path: images/waves-indoor-water-park
-  thumb: waterpark-3.jpg
+  thumb: waterpark-18-thumb.jpg
   credit: Images courtesy of www.americananiagara.com.
 
 affiliate_block:

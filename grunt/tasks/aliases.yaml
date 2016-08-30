@@ -3,8 +3,12 @@ default:
   tasks:
     - 'clean'
     - 'sass'
-    - 'copy'
     - 'imagemin'
+    - 'copy'
+
+generate_thumbs:
+  tasks:
+    - 'responsive_images'
 
 build_dev:
   description: Build a development version of a jekyll site

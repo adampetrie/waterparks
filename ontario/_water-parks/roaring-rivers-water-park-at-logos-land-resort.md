@@ -12,7 +12,7 @@ location:
 
 images:
   path: images/logos-land-water-park
-  thumb: 776981103_1362771437.jpg
+  thumb: logos_land_water_park_ontario-thumb.jpg
   credit: Images courtesy of Google.
 ---
 

@@ -9,9 +9,12 @@
   <div class="clearfix">
     {% for image in site.static_files %}
       {% if image.path contains {{include.path}} %}
-        <a class="col-xs-12 col-sm-4 col-md-4 thumb" data-lightbox="gallery" href="{{ image.path }}">
-          <img class="img-responsive img-thumbnail" src="{{ site.baseurl }}{{ image.path }}" alt="{{ page.title }}" title="{{ page.title }}"/>
-        </a>
+        {% unless image.path contains 'thumb' %}
+          {% assign thumb = image.path | split: image.extname | first | append: '-thumb'| append: image.extname %}
+          <a class="col-xs-12 col-sm-4 col-md-4 thumb" data-lightbox="gallery" href="{{ image.path }}">
+            <img class="img-responsive img-thumbnail" src="{{ site.baseurl }}{{ thumb }}" alt="{{ page.title }}" title="{{ page.title }}"/>
+          </a>
+        {% endunless %}
       {% endif %}
     {% endfor %}
   </div>

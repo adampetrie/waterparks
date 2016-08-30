@@ -12,7 +12,7 @@ location:
 
 images:
   path: images/calypso-water-park
-  thumb: boomerango_122938984.jpg
+  thumb: boomerango_water_slide-thumb.jpg
   credit: Images courtesy of Calypso Theme Waterpark Limoges Canada © Copyright 2015.
 
 affiliate_block:
