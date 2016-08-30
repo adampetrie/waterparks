@@ -29,7 +29,7 @@ L2E 7M8
 
 #### Contact
 (905) 354-4888   
-[www.www.greatwolf.com/niagara/waterpark](www.greatwolf.com/niagara/waterpark)
+[www.www.greatwolf.com/niagara/waterpark](http://www.greatwolf.com/niagara/waterpark)
 
 #### Admission Prices
 Rates starting at $219.99 for accommodation and water park passes for a family of four.
@@ -45,4 +45,4 @@ Wacky Wildnerness Mini Golf*
 Great Wolf Stuffing Station*  
 *additional charges apply  
 
-For more information visit Great Wold Lodge’s website at [www.greatwolf.com/niagara/waterpark](www.greatwolf.com/niagara/waterpark)
+For more information visit Great Wold Lodge’s website at [www.greatwolf.com/niagara/waterpark](http://www.greatwolf.com/niagara/waterpark)

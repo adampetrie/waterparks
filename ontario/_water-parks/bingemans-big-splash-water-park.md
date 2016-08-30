@@ -53,4 +53,4 @@ FunworX 3-level play structure, outdoor mini golf, Hole in Fun glow-in-the-dark 
 Camping, paintball, beach volleyball, canoeing the Grand River, Speedway, indoor play land, Scream Parks haunted house  
 *additional fees apply
 
-For more information please visit [Bingemans website](www.bingemans.com/bigsplash)
+For more information please visit [Bingemans website](http://www.bingemans.com/bigsplash)

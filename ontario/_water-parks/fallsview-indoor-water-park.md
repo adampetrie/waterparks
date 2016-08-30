@@ -33,7 +33,7 @@ Fallsview Indoor Water Park is Niagara’s largest indoor water park.  Standing 
 
 Fallsview Indoor Water park is open daily year round!  
 10am to 9pm every Friday and Saturday in the spring and daily from June 27-August 31  
-For all other hours please visit [www.fallsviewwaterpark.com/doc/waterpark-calendar](www.fallsviewwaterpark.com/doc/waterpark-calendar)
+For all other hours please visit [www.fallsviewwaterpark.com/doc/waterpark-calendar](http://www.fallsviewwaterpark.com/doc/waterpark-calendar)
 
 
 #### Location
@@ -44,7 +44,7 @@ L2E 6W7
 
 #### Contact
 (905) 374-4444  
-[www.fallsviewwaterpark.com](www.fallsviewwaterpark.com/doc/waterpark-calendar)
+[www.fallsviewwaterpark.com](http://www.fallsviewwaterpark.com/doc/waterpark-calendar)
 
 #### Admission Prices:
 Day Passes are $44.95  
@@ -59,4 +59,4 @@ Heading to Niagara for a day of water park fun with your Day Pass? We recommend 
 
 The Fallsview Indoor Water park features direct indoor connections to three superior Niagara Falls hotels, the Sheraton on the Falls, Crowne Plaza Niagara Falls-Fallsview Hotel and the Skyline Inn for your accommodation needs.
 
-For more information visits [Fallsview Indoor Water Park’s website](www.fallsviewwaterpark.com)
+For more information visits [Fallsview Indoor Water Park’s website](http://www.fallsviewwaterpark.com)

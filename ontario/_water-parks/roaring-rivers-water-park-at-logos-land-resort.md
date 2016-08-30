@@ -79,4 +79,4 @@ Additional Family Member: $60.00
 
 Additional fees apply.
 
-For more information visits [Logo Land Resorts website](www.logosland.com)
+For more information visits [Logo Land Resorts website](http://www.logosland.com)
