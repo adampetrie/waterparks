@@ -12,7 +12,7 @@ location:
 
 images:
   path: images/great-wolf-lodge-cincinnati-mason
-  thumb: triple-twist-mason.jpg
+  thumb: triple-twist-mason-thumb.jpg
   credit: Images courtesy of www.greatwolf.com/mason.
 
 affiliate_block:

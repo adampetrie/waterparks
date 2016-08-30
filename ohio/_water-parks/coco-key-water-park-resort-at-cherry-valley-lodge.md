@@ -12,7 +12,7 @@ location:
 
 images:
   path: images/coco-key-water-park
-  thumb: River1.jpg
+  thumb: River1-thumb.jpg
   credit: Images courtesy of Google.
 
 address: 2299 Cherry Valley Road Newark, Ohio 43055

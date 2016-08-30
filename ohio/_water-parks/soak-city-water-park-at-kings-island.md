@@ -12,7 +12,7 @@ location:
 
 images:
   path: images/soak-city-at-kings-island
-  thumb: Tropical_Plunge.jpg
+  thumb: Tropical_Plunge-thumb.jpg
   credit: Images courtesy of www.visitkingsisland.com.
 
 affiliate_block:

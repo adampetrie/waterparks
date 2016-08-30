@@ -12,7 +12,7 @@ location:
 
 images:
   path: images/wild-water-kingdom
-  thumb: thunderfalls_exit.jpg
+  thumb: thunderfalls_exit-thumb.jpg
   credit: Images courtesy of www.wildwaterfun.com.
 ---
 

@@ -12,7 +12,7 @@ location:
 
 images:
   path: images/the-beach-water-park
-  thumb: Riptide-Racer.jpg
+  thumb: Riptide-Racer-thumb.jpg
   credit: Images courtesy of thebeachwaterpark.com.
 ---
 

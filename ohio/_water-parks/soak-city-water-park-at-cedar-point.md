@@ -12,7 +12,7 @@ location:
 
 images:
   path: images/soak-city-water-park-at-cedar-point
-  thumb: sc_wavemag.jpg
+  thumb: sc_wavemag-thumb.jpg
   credit: Images courtesy of Google.
 
 affiliate_block:

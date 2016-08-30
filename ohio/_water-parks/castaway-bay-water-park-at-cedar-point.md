@@ -12,7 +12,7 @@ location:
 
 images:
   path: images/castaway-bay-water-park-at-cedar-point
-  thumb: 55608831.jpg
+  thumb: 55608831-thumb.jpg
   credit: Images courtesy of booking.com
 
 affiliate_block:

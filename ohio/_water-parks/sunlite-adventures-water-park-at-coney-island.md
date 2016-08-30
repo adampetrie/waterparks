@@ -12,7 +12,7 @@ location:
 
 images:
   path: images/sunlite-adventures-water-park-at-coney-island
-  thumb: 327.jpg
+  thumb: 327-thumb.jpg
   credit: Images courtesy of www.coneyislandpark.com
 ---
 

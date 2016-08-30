@@ -12,7 +12,7 @@ location:
 
 images:
   path: images/kalahari-water-park
-  thumb: leopards-lair.jpeg
+  thumb: leopards-lair-thumb.jpeg
   credit: Images courtesy of www.kalahariresorts.com.
 
 affiliate_block:

@@ -12,7 +12,7 @@ location:
 
 images:
   path: images/splash-bay-indoor-water-park
-  thumb: splash-bay-resort-water-park.jpg
+  thumb: splash-bay-resort-water-park-thumb.jpg
   credit: Images courtesy of Google.
 ---
 

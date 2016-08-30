@@ -12,7 +12,7 @@ location:
 
 images:
   path: images/great-wolf-lodge-sandusky
-  thumb: totem-towers-sandusky.jpg
+  thumb: totem-towers-sandusky-thumb.jpg
   credit: Images courtesy of www.greatwolf.com/sandusky.
 
 affiliate_block:

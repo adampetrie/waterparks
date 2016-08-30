@@ -12,7 +12,7 @@ location:
 
 images:
   path: images/zoombezi-bay-water-park
-  thumb: zoombezi-bay.jpg
+  thumb: zoombezi-bay-thumb.jpg
   credit: Images courtesy of Google.
 ---
 

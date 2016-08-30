@@ -12,7 +12,7 @@ location:
 
 images:
   path: images/maui-sands-resort-and-indoor-water-park
-  thumb: maui-sands.jpg
+  thumb: maui-sands-thumb.jpg
   credit: Images courtesy of Google.
 
 affiliate_block:
