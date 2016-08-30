@@ -1,15 +1,13 @@
-{% include html-head.html %}
-  <body>
+---
+layout: default
+---
 
-    <div class="container maintenance">
-      <div class="row">
-        <div class="col-md-12">
-          <i class="wi wi-day-sunny"></i>
-          <div class="key-line"></div>
-          {{ content | markdownify }}
-        </div>
+  <div class="container maintenance">
+    <div class="row">
+      <div class="col-md-12">
+        <i class="wi wi-day-sunny"></i>
+        <div class="key-line"></div>
+        {{ content | markdownify }}
       </div>
     </div>
-
-  </body>
-</html>
+  </div>
