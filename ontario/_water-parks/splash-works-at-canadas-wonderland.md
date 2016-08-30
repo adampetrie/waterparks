@@ -12,7 +12,7 @@ location:
 
 images:
   path: images/splash-works-canadas-wonderland
-  thumb: canadas-wonderland-25.jpg
+  thumb: splash_works_lazy_river-thumb.jpg
   credit: Images courtesy of Google.
 ---
 

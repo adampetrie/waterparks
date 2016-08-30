@@ -12,7 +12,7 @@ location:
 
 images:
   path: images/kidstown-water-park
-  thumb: 2.jpg
+  thumb: splash_pad-thumb.jpg
   credit: Images courtesy of Google.
 ---
 

@@ -12,7 +12,7 @@ location:
 
 images:
   path: images/tomlinson-water-park
-  thumb: CMsib6lUAAAeP7R.jpg
+  thumb: tomlinson_water_slide-thumb.jpg
   credit: Images courtesy of Google.
 ---
 

@@ -12,7 +12,7 @@ location:
 
 images:
   path: images/fallsview-indoor-water-park
-  thumb: slides.jpg
+  thumb: indoor_splash_pad-thumb.jpg
   credit: Images courtesy of www.fallsviewwaterpark.com.
 
 affiliate_block:

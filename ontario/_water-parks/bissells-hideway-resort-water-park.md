@@ -12,7 +12,7 @@ location:
 
 images:
   path: images/bissells-hideaway-water-park
-  thumb: 1_1438801684_slides-bottom.jpg
+  thumb: water_slide-thumb.jpg
   credit: Images courtesy of www.bissellshideaway.com.
 ---
 

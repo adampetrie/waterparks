@@ -12,7 +12,7 @@ location:
 
 images:
   path: images/lake-lisgar-water-park
-  thumb: lake-lisgar-waterpark.jpg
+  thumb: lake-lisgar-water-park-1-thumb.jpg
   credit: Images courtesy of Google.
 ---
 

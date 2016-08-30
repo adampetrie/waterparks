@@ -12,7 +12,7 @@ location:
 
 images:
   path: images/wild-water-works
-  thumb: wild-waterworks-1158832-1942122-regular.jpg
+  thumb: wild-waterworks-thumb.jpg
   credit: Images courtesy of Google.
 ---
 Located in Confederation Park, just off Centennial Parkway in Hamilton, Wild Waterworks water park offers a perfect place to spend a summer day.  Wild Waterworks features:

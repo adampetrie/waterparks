@@ -12,7 +12,7 @@ location:
 
 images:
   path: images/adventure-bay-water-park
-  thumb: Lazy River 1.4_JPG.jpg
+  thumb: lazy_river-thumb.jpg
   credit: Images courtesy of www.adventurebay.ca.
 ---
 

@@ -12,7 +12,7 @@ location:
 
 images:
   path: images/great-wolf-lodge
-  thumb: chipmunk-cove-niagon-3-img5809-1200x500.jpg
+  thumb: chipmunk_cove_indoor_waterpark-thumb.jpg
   credit: Images courtesy of www.greatwolf.com
 
 affiliate_block:

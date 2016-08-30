@@ -12,7 +12,7 @@ location:
 
 images:
   path: images/splash-island-toronto-zoo
-  thumb: splash-island.jpg
+  thumb: splash_island_water_park-thumb.jpg
   credit: Images courtesy of Google.
 ---
 

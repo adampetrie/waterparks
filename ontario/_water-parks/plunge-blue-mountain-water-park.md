@@ -12,7 +12,7 @@ location:
 
 images:
   path: images/plunge-blue-mountain
-  thumb: pic4.jpg
+  thumb: water_slide-thumb.jpg
   credit: Images courtesy of www.plungebluemountain.ca.
 
 affiliate_block:
