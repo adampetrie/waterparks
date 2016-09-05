@@ -11,7 +11,7 @@ module.exports = {
     },
     files: [{
       expand: true,
-      src: ['**/*.{jpg,jpeg}', '!carousel/*.{jpg,jpeg}'],
+      src: ['**/*.{jpg,jpeg,png}', '!carousel/*.{jpg,jpeg}'],
       cwd: '<%= paths.siteAssets %>/images',
       dest: '<%= paths.siteAssets %>/images'
     }]
