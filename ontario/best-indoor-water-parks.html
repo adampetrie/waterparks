@@ -1,0 +1,105 @@
+---
+layout: page
+title: Best Indoor Water Parks
+
+main-nav: true
+nav-text: Indoor Water Parks
+
+description: Escape Ontario's winter without leaving the province by checking out Water Parks in Ontario's list of the best indoor water parks in Ontario!
+intro: |
+  When the weather cools off the fun doesn’t have to!  
+
+  Ontario winters can be cold, and long.  But that doesn’t mean that we cannot take a mini break to enjoy all of the fun and adventure of indoor water parks.
+
+  Whether you are looking to relax in the wave pool, take a thrilling ride down a water slide, or just have a chance to switch from a winter coat to a bathing suit, we have an indoor water park that is right for you and your family.  
+
+  So, grab your bathing suit, towel, underwater camera - no need to pack the sunscreen - and check out all of the fun you and your family can have this winter at an indoor water park near you!  
+
+  From Niagara Falls to Muskoka, here are Water Parks in Ontario’s list of indoor water parks open year round:
+waterparks:
+  - name: Great Wolf Lodge
+    image: great-wolf-lodge-indoor-water-park.jpg
+    description: |
+      There is always plenty of aqua adventure for the whole family at [Great Wolf Lodge in Niagara Falls, Ontario](http://www.booking.com/hotel/ca/great-wolf-lodge.html?aid=1159253).
+
+      Beat the cold in the 100,000 square foot play area that is a warm 84 degrees year round!  Adventurers will love the Canada Vortex - a water slide with a 40 foot drop, while the smaller kids will love Fort Mackenzie - the best water tree house that comes with its own water slides for kids.  
+
+      New to Great Wolf Lodge in 2016 is the Wolf Tail - a water slide like no other!  Once you step into the launch pad, the floor will drop out from under you and you will free fall down a 20 foot flume, followed by a 360 degree loop!  
+
+      Plus Great Wolf Lodge also boasts tons of land activities such as MagiQuest, fireside Story Time, arcade games, Jammie Jamboree dance parties and more!  
+
+      The water park in reserved for hotel guests only.  Rates start at $220 for accommodation and water park passes for a family of four.
+
+      For more information visit our [full listing on Great Wolf Lodge](http://www.waterparksinontario.ca/water-parks/great-wolf-lodge/)
+  - name: Fallsview Indoor Water Park
+    image: fallsview-indoor-water-park.jpg
+    description: |
+      Fallsview Indoor Water Park is the largest indoor water park in Niagara!  With over three acres of indoor water park fun, 16 water slides - some up to six stories high! - a full size wave pool and a 1,000 gallon tipping bucket, there is something for everyone to enjoy! 
+
+      Come for the day or stay for the weekend - the Fallsview Indoor Water Park is directly connected to 3 hotels: [Sheraton on the Falls Hotel](http://www.booking.com/hotel/ca/s-at-the-falls.html?aid=1159253), [Crowne Plaza Niagara Falls Hotel](http://www.booking.com/hotel/ca/crowne-plaza.html?aid=1159253), and [Skyline Hotel](http://www.booking.com/hotel/ca/skyline-hotel-and-waterpark.html?aid=1159253).  The [Clifton Victoria Inn at the Falls](http://www.booking.com/hotel/ca/hampton-inn-at-the-falls.html?aid=1159253) is located only steps away.   
+
+      Day passes are $44.95 for ages 3 and up and free for children 2 and under.  
+
+      For more information visit our [full listing on Fallsview Indoor Water Park](http://www.waterparksinontario.ca/water-parks/fallsview-indoor-water-park/)
+  - name: Waves Indoor Water Park
+    image: waves-indoor-water-park.jpg
+    description: |
+      It doesn’t matter how low the thermometer drops, it’s always feels tropical at Waves Indoor Water Park in Niagara.
+
+      With a large glass retractable roof, you may still be able to see the snow, but you will be able to have year round fun in their wave pool, tube and water slides (up to 3 stories high!).  Waves also has a kiddy pool, interactive play structure, and water slides for kids! 
+
+      Waves Indoor Water Park is attached to the [Americana Resort Hotel in Niagara Falls](http://www.booking.com/hotel/ca/americana-waterpark-resort-spa.html?aid=1159253).
+
+      All ages full day pass is $29.95 and a 1 Night Bed & Breakfast Waterpark Hotel Package starts at $109.  
+
+      For more information visit our [full listing on Waves Indoor Water Park](http://www.waterparksinontario.ca/water-parks/waves-indoor-water-park/)
+  - name: Plunge! Blue Mountain
+    image: plunge-blue-mountain-indoor-water-park.jpg
+    description: |
+      Located in Ontario’s cottage country at the base of Blue Mountain Village is Plunge! Aquatic Centre.
+
+      Featuring indoor and outdoor pools, hot tubs and an indoor water playground, there is fun for the whole family!  Plus, stay for the weekend in one of the [many Blue Mountain hotels](http://www.booking.com/city/ca/blue-mountains.html?aid=1159253) located nearby.
+
+      Adults 13 and up are $21, kids ages 3-12 are $16, and 2 and under are free.  
+
+      For more information visit our [full listing on Plunge! Blue Mountain](http://www.waterparksinontario.ca/water-parks/plunge-blue-mountain-water-park/)
+---
+
+<div class="row banner-margin-top banner-margin-bottom">
+  {% include ad-block.html ad-slot="9146040448" %}
+</div>
+
+<h1>
+  <span class="icon fa fa-life-saver"></span>
+  Best Indoor Water Parks in Ontario
+  <div class="key-line"></div>
+</h1>
+
+<div class="row">
+  <div class="col-md-8">
+    {{ page.intro | markdownify }}
+  </div>
+  <div class="col-md-4">
+    {% include ad-block.html ad-slot="2176333645" %}
+  </div>
+</div>
+{% for waterpark in page.waterparks %}
+  <h2>
+    <span class="icon fa fa-life-saver"></span>
+    {{ waterpark.name }}
+    <div class="key-line"></div>
+  </h2>
+
+  <div class="row">
+    <div class="col-md-4">
+      <img class="img-thumbnail" src="/public/assets/images/best-indoor-water-parks/{{ waterpark.image }}" alt="{{ waterpark.name }}"/>
+    </div>
+    <div class="col-md-8">
+      {{ waterpark.description | markdownify }}
+    </div>
+  </div>
+{% endfor %}
+
+<div class="row banner-margin-top banner-margin-bottom">
+  {% include ad-block.html ad-slot="9146040448" %}
+</div>
