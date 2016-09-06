@@ -22,4 +22,11 @@ sitemap: false
     </url>
     {% endunless %}
   {% endfor %}
+  {% for post in site.posts %}
+    <url>
+      <loc>{{ site.url }}{{ post.url | remove: "index.html" }}</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.3</priority>
+    </url>
+  {% endfor %}
 </urlset>

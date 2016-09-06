@@ -1,0 +1,96 @@
+---
+layout: default
+excerpt: |
+  Spending the day splashing at a water park near you with your family or friends is one of of the best ways to beat the summer heat.  However, your splash-tacular day can quickly add up.  Check out Water Parks in Ohio's list of 9 ways you can save money!
+tips:
+  - name: Look for Specials and Deals
+    icon: glyphicon glyphicon-tag
+    description: |
+      Before heading to the water park to pay full price at the ticket gates, try a little google research ahead of time.
+
+      Daily deal sites like [Groupon](https://www.groupon.com/), [LivingSocial](https://www.livingsocial.com) and [Travelzoo](http://www.travelzoo.com/) continuously have deeply discounted specials for various attractions such as water parks.  
+
+      It might mean having to time your water park visit a bit, looking for sales and specials in advance of your trip and/or waiting for specials to appear, but the money you will save will make it be the wait!
+  - name: Are You a Member?
+    icon: fa fa-credit-card
+    description: |
+      If you are planning a water park trip in the immediate future and cannot find any specials on the daily deals sites, try contacting your local [AAA](http://www.aaa.com/) or visiting [Costco](http://www.costco.com/).
+
+      They often also have specials on local attractions such as water parks.  While the discounts may not be as great, it will still save you money!
+  - name: Pack a Picnic Lunch
+    icon: glyphicon glyphicon-piggy-bank
+    description: |
+      Many water parks will let you bring in your own cooler.  This can add up to huge savings, not to mention a much healthier option than eating the fast food served at most water parks!
+
+      Grab a cooler, load up on water, sandwiches and snacks and you can save all day! Make sure to visit the water park's website ahead of time to see if there are any restrictions on bringing in outside food.
+  - name: Make a List and Check it Twice 
+    icon: glyphicon glyphicon-piggy-bank
+    description: |
+      Did you pack sunscreen, towels, lip balm and sunglasses?
+
+      All of these items are usually available at a water park's gift shop in case you forget, but it can get pricey.  Making sure you pack everything that you will need for the day can add up to huge savings. 
+  - name: Consider a Season's Pass
+    icon: glyphicon glyphicon-tag
+    description: |
+      Is the water park close to your house? Can you see yourself making multiple visits?
+
+      If so, consider buying a season's pass.  If you visit the water park multiple times in a season, it can mean that each visit costs significantly less than visiting multiple different water parks (or attractions) throughout the summer.  Check out season's pass pricing - usually the earlier you buy a season's pass, the greater the discount.
+
+      Make sure you do the math - think about how many times you will (reasonably) visit the water park in the season and divide it buy the price of the season's pass to discover how much money you can save!
+  - name: Get a Late Start
+    icon: wi wi-sunset
+    description: |
+      Most water parks offer a twilight price that usually starts around 4 pm.
+
+      Check out the water park's website and consider if this option is right for you.  It may mean less time at the water park, but more savings!  As a bonus, many of the early birds may have left the water park after getting too much sun in the morning leaving shorter lines for you and your family! 
+  - name: Visit the Water Park's Website
+    icon: fa fa-internet-explorer
+    description: |
+      Some water parks, such as [Moonsoon Lagoon](/water-parks/monsoon-lagoon-water-park/) and [Great Wolf Lodge](/water-parks/great-wolf-lodge-cincinnati-mason-indoor-water-park-resort/), offer coupons directly on from their website.
+
+      Or visit the water park's facebook or twitter account to see if they are currently offering and specials, deals or coupons. 
+  - name: Invite your Friends
+    icon: fa fa-users
+    description: |
+      Many water parks offer group discounts for groups of 10 people or more.  Invite your family, friends and neighbours and you can all share in the savings!
+  - name: Bundle Up!
+    icon: fa fa-bed
+    description: |
+      Many water parks, such as [Kalahari Water Park](/water-parks/kalahari-water-park/) and [Great Wolf Lodge](/water-parks/great-wolf-lodge-sandusky-ohio-water-park-resort/), offer specials for packaging your water park adventures together.
+
+      Whether you book a water park pass with a hotel package, or other land activities, there are many ways to save.  Visit the water park's website to view their bundle specials.  But buyers beware - it is only a deal if you were already planning on doing all of the activities in the bundle.
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2">
+
+      <h1>
+        <span class="icon fa fa-life-saver"></span>
+        9 Ways to Save Money at the Water Park
+        <div class="key-line"></div>
+      </h1>
+
+      <p>
+        Spending the day splashing at a water park near you with your family or friends is one of of the best ways to beat the summer heat.  However, your splash-tacular day can quickly add up.  Check out Water Parks in Ohio's list of 9 ways you can save money!
+      </p>
+
+      <div class="row banner-margin-top banner-margin-bottom">
+        {% include ad-block.html ad-slot="9146040448" %}
+      </div>
+
+      {% for tip in page.tips %}
+        <h2>
+          <span class="icon {{ tip.icon }} "></span>
+          {{ forloop.index }}. {{ tip.name }}
+          <div class="key-line"></div>
+        </h2>
+        {{ tip.description | markdownify }}
+      {% endfor %}
+
+      <div class="row banner-margin-top banner-margin-bottom">
+        {% include ad-block.html ad-slot="9146040448" %}
+      </div>
+    </div>
+  </div>
+</div>

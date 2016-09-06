@@ -35,15 +35,17 @@ defaults:
       type: "water-parks"
     values:
       layout: "waterpark"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: '/blog/:title/'
 
 # Build Settings...
 permalink: pretty
 
 markdown: kramdown
-
-sass:
-  sass_dir: css
-  style:    expanded
 
 exclude:
   - README.md
