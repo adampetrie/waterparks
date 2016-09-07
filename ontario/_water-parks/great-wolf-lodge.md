@@ -45,16 +45,17 @@ L2E 7M8
 Rates starting at $219.99 for accommodation and water park passes for a family of four.
 
 #### Other Activities
-Story Time - After a fun day splashing down water slides, grab your PJs and join the Great Wolf Lodge characters for some bedtime stories.    
-Jammie Jamboree dance party  - Still have energy after your day of water park fun? Then join the Jammie Jamboree for a dance party!  Plus there will be props and a selfie station where you can take photos with your favourite Great Wolf Lodge characters.  
-Forest Friends show - Join the Northwoods mechanical animals for a sing-a-long party!  The show comes to life multiple times a day in the Grand Living Room.  
-Great Games - family favourite board games such a Bingo, pictionary and trivia that everyone can enjoy.  
-Yoga Tails - what a better way to start the day than with yoga!  This kids program is designed to stimulate energy, imagination and self-expression as kids flutter like butterflies, roll like happy bears and stand tall as trees.  
-MagiQuest*  - MagiQuest is an interactive live-action, role playing game where players embark on quests and adventures in an enchanted fantasy world using real magic wands to solve the mysteries of the game.
+* Story Time - After a fun day splashing down water slides, grab your PJs and join the Great Wolf Lodge characters for some bedtime stories.    
+* Jammie Jamboree dance party  - Still have energy after your day of water park fun? Then join the Jammie Jamboree for a dance party!  Plus there will be props and a selfie station where you can take photos with your favourite Great Wolf Lodge characters.  
+* Forest Friends show - Join the Northwoods mechanical animals for a sing-a-long party!  The show comes to life multiple times a day in the Grand Living Room.  
+* Great Games - family favourite board games such a Bingo, pictionary and trivia that everyone can enjoy.  
+* Yoga Tails - what a better way to start the day than with yoga!  This kids program is designed to stimulate energy, imagination and self-expression as kids flutter like butterflies, roll like happy bears and stand tall as trees.  
+* MagiQuest*  - MagiQuest is an interactive live-action, role playing game where players embark on quests and adventures in an enchanted fantasy world using real magic wands to solve the mysteries of the game.
 Northern Lights Arcade*  
-Bowling Alley*  
-Wacky Wildnerness Mini Golf*  
-Great Wolf Stuffing Station*  - kids can create and make their own stuffed animals
-*additional charges apply  
+* Bowling Alley*  
+* Wacky Wildnerness Mini Golf*  
+* Great Wolf Stuffing Station*  - kids can create and make their own stuffed animals
+
+_* additional charges apply_  
 
 For more information visit Great Wold Lodge’s website at [www.greatwolf.com/niagara/waterpark](http://www.greatwolf.com/niagara/waterpark)
