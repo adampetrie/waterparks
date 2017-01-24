@@ -1,4 +1,5 @@
-var mozjpeg = require('imagemin-mozjpeg');
+var path = require('path');
+var mozjpeg = require(path.join(process.cwd(), '../node_modules/imagemin-mozjpeg'));
 
 module.exports = {
   jpg: {

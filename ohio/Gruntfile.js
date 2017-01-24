@@ -2,12 +2,13 @@ module.exports = function(grunt) {
   var path = require('path');
   var gruntTasksPath = '../grunt/';
   var bowerPath = '../theme/bower_components/'
+  var cwd = process.cwd();
 
   require('load-grunt-config')(grunt, {
     configPath: path.join(process.cwd(), gruntTasksPath + '/tasks'),
 
-    loadGruntTasks: {
-      config: require(gruntTasksPath + '/package.json'),
+    jitGrunt: {
+      cwd: '..'
     },
 
     data: {

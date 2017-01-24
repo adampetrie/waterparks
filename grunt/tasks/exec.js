@@ -1,8 +1,8 @@
 module.exports = {
   serve: {
-    cmd: 'jekyll serve'
+    cmd: 'bundle exec jekyll serve'
   },
   deploy: {
-    cmd: 'JEKYLL_ENV=production jekyll build && s3_website push'
+    cmd: 'bundle exec JEKYLL_ENV=production jekyll build && s3_website push'
   }
 }

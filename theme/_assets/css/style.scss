@@ -7,7 +7,9 @@ $fa-font-path: "../fonts";
 @import 'bootstrap';
 @import 'weather-icons';
 @import 'font-awesome';
-@import 'slick';
+// node-sass complains about ambiguous imports for Slick
+// so we specify the file extension to get aroud it
+@import 'slick.scss';
 
 @import 'modules/weather';
 @import 'modules/map';
