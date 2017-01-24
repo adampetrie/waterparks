@@ -1,0 +1,26 @@
+---
+layout: page
+title: Blog
+main-nav: true
+nav-text: Blog
+---
+
+<div class="row banner-margin-top banner-margin-bottom">
+  {% include ad-block.html ad-slot="9146040448" %}
+</div>
+
+{% for post in site.posts %}
+  <div class="row">
+    <a href="{{ post.url }}">
+      <h3>
+      {{ post.title }}
+      <div class="key-line"></div>
+      </h3>
+    </a>
+    <p>{{ post.excerpt }}</p>
+  </div>
+{% endfor %}
+
+<div class="row banner-margin-top banner-margin-bottom">
+  {% include ad-block.html ad-slot="9146040448" %}
+</div>
