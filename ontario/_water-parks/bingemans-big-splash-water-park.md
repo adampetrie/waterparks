@@ -19,7 +19,7 @@ Located in Kitchener, Bingeman’s Big Splash offers fun and excitement for all 
 
 #### Hours of Operation
 Saturdays and Sundays in June from 10am-7pm  
-Everyday starting July 1st - September 5th from 10am-7pm
+Everyday starting July 1st - September 4th from 10am-7pm
 
 #### Location
 425 Bingemans Centre Drive  
