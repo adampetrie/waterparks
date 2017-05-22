@@ -31,8 +31,8 @@ The Roaring Rivers Water Park features:
 
 ### Hours of Operation
 
-June 4 to 10, 2016: 10:30am – 4:00pm  
-June 11 to September 4, 2016: 10:30am – 6:00pm  
+June 3 to 22, 2017: 10:30am – 4:00pm  
+June 23 to September 3, 2017: 10:30am – 6:00pm  
 
 ### Location
 
@@ -49,11 +49,11 @@ K0J 1K0
 
 ### Admission Prices
 
-One Day Splash Pass: $20.00  
+One Day Splash Pass: $20.50  
 2 and under: Free  
 *Unlimited access to all waterslides, splash pad, mini-golf, water trampoline, paddleboats, beach, hiking trails, & animal farm  
 
-Three Day Splash Pass (3 consecutive days): $40.00   
+Three Day Splash Pass (3 consecutive days): $41.00   
 2 and under: Free  
 *Unlimited access to all waterslides, splash pad, mini-golf, water trampoline, paddleboats, beach, hiking trails, & animal farm  
 
@@ -61,9 +61,13 @@ Seven Day Splash Pass (7 consecutive days): $49.00
 2 and under: Free  
 *Unlimited access to all waterslides, splash pad, mini-golf, water trampoline, paddleboats, beach, hiking trails, & animal farm  
 
-Season's Pass: $80.00  
+Twilight Splash Pass (last 3 hours): $15.00
 2 and under: Free  
-Family Pass (3 people: $195.00  
+*Unlimited access to all waterslides, splash pad, mini-golf, water trampoline, paddleboats, beach, hiking trails, & animal farm  
+
+Season's Pass: $90.00  
+2 and under: Free  
+Family Pass (3 people): $195.00  
 Additional Family Member: $60.00  
 *Unlimited access to all waterslides, splash pad, mini-golf, water trampoline, paddleboats, beach, hiking trails, & animal farm  
 
