@@ -22,9 +22,9 @@ Located in Confederation Park, just off Centennial Parkway in Hamilton, Wild Wat
 - Little Squirt Works for toddlers  
 
 #### Hours of Operation 
-Saturdays and Sundays starting June 11: 11am-8pm  
+Saturdays and Sundays starting June 10: 11am-8pm  
 Daily starting July 1st to August 14th: 11am-8pm  
-Daily August 15th to September 5th: 11am-7pm  
+Daily August 14th to September 4th: 11am-7pm  
 
 #### Location
 585 Van Wagners Beach Road  
@@ -38,18 +38,18 @@ wildww@conservationhamilton.ca
 
 #### Admission Prices
 Daily Rate:  
-General Admission (11-64 years old): $20.56  
-Child Admission (3-10 years old): $12.73  
-Senior Admission (65+): $17.78  
-Person with Disability and/or Attendant: $12.73  
+General Admission (11-64 years old): $22.92  
+Child Admission (3-10 years old): $14.97 
+Senior Admission (65+): $20.10  
+Person with Disability / Attendant (each): $14.97  
 
 Sundown Passes (after 4pm)  
-General Admission (11-64 years old): $12.36 
-Child Admission (3-10 years old): $10.82  
-Senior Admission (65+): $12.36  
-Person with Disability and/or Attendant: $10.82
+General Admission (11-64 years old): $12.56
+Child Admission (3-10 years old): $10.99  
+Senior Admission (65+): $12.56  
+Person with Disability / Attendant (each): $10.99
 
-Seasons Passes starting at $78.75  
+Seasons Passes starting at $79.93  
 
 Tickets can be purchased online through Wild Waterworks website [here](https://wild-waterworks.com/tickets/)
 
