@@ -17,7 +17,8 @@ images:
 ---
 
 #### Hours of Operation
-Open daily June 30 – September 5th from 12pm to 7pm 
+
+Open daily June 30 – September 4th from 12pm to 7pm 
 
 #### Location
 1275 Hamilton Road  
