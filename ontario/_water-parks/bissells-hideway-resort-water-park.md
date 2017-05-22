@@ -19,7 +19,7 @@ images:
 Located in the Niagara area, Bissell’s Hideway features a giant pool and boardwalk, 130ft twister water slide, and a kiddie splash pad.
 
 #### Hours of Operation
-Daily from June 24 to September 5th from 9am to 9pm 
+Daily from June 23 to September 4th from 9am to 9pm 
 
 #### Location
 205 Metler Road, R.R. #1  
