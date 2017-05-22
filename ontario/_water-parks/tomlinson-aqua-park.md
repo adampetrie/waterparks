@@ -29,7 +29,8 @@ Facility Features
 - Lazy River  
 
 ### Hours of Operation
-Closed for the season
+Tomlinson Aqua Park will open for the 2017 season on June 3 
+The Memorial Centre splash pad opening is delayed until mid-June due to the park improvements scheduled for spring 2017
 
 ### Location
 303 York St  
@@ -40,9 +41,9 @@ K7K 1R8
 [website](https://www.cityofkingston.ca/residents/recreation/facilities/aquatic-facilities/outdoor-aquatic-centre)
 
 ### Admission 
-Day Passes: $3.45  
-12 visit: $37.95  
-Season's pass: $114  
+Day Passes: $3.50  
+12 visit: $38.50  
+Season's pass: $117  
 
 
 
