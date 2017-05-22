@@ -17,8 +17,9 @@ Cedar Park Resort facilities include water slides, splash pad, pool, aqua playgr
 
 ### Hours of Operation
 
-Cedar Park Resort is open from early June through to Labour Day for day use.   
-The trailer park is open from May 1 to October 1 for camping.  
+Cedar Park Resort is open June 16 Monday to Thursday from 10am to 4pm and Friday to Sunday from 10am to 7pm
+Starting July 1st to Sepetmber 5th from 10am to 6pm Monday to Thursday and Friday to Sunday from 10am to 7pm.  
+ 
 Visit [Cedar Park Resort's Hours](http://www.cedarparkresort.ca/hours.php) for complete information.  
 
 ### Location
@@ -34,8 +35,8 @@ Canada L1C 3K2
 
 ### Admission Prices
 
-2016 General Admission  
-Adults: $12  
+2017 General Admission  
+Adults: $13  
 Children 12 years and under: $11  
 Children under 2: Free  
 Seniors (65 pkus): $11  
