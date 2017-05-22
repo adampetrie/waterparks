@@ -25,7 +25,7 @@ affiliate_block:
 Calypso is Canada's biggest theme waterpark. The extensive 100-acre facility features more than 35 water slides, over 175 lifeguards and slide attendants, 8 restaurants, an African theme river adventure, Canada's largest wave pool, plus Summit Tower - the tallest waterslide tower in North America! 
 
 #### Hours of Operation
-Daily June 8 to September 5th from 10am to 7pm 
+Daily June 7 to September 4th from 10am to 7pm 
 
 #### Location
 2015 Calypso Street  
@@ -38,16 +38,16 @@ K0A 2M0
 
 #### Admissions
 Tall (1.32 m and over)  
-- All Day: $37.17  
-- After 3pm: $30.90 
+- All Day: $36.99 
+- After 2pm: $29.99 
 
 Small (under 1.32 m)  
-- All Day: $30.09  
-- After 3pm: $24.78 
+- All Day: $29.99 
+- After 2pm: $23.99 
 
 Senior (65 years old 0and older*)  
-- All Day: $30.09  
-- After 3pm: $24.78 
+- All Day: $29.99
+- After 2pm: $23.99 
 
 Child (2 years old and under*)  
 - Free  
