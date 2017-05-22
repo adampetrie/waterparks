@@ -29,7 +29,7 @@ Facility Features
 - Lazy River  
 
 ### Hours of Operation
-Tomlinson Aqua Park will open for the 2017 season on June 3 
+Tomlinson Aqua Park will open for the 2017 season on June 3  
 The Memorial Centre splash pad opening is delayed until mid-June due to the park improvements scheduled for spring 2017
 
 ### Location
