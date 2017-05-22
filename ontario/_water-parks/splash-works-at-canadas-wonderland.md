@@ -20,7 +20,7 @@ Splash Works is a 20-acre water park located within the park boundaries of Canad
 
 ### Hours of Operation
 
-Splash Works is open weekends starting May 287 2017 and daily from June 16 to September 4.
+Splash Works is open weekends starting May 27, 2017 and daily from June 16 to September 4.
 
 ### Location
 
