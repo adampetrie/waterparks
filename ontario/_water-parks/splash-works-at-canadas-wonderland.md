@@ -20,7 +20,7 @@ Splash Works is a 20-acre water park located within the park boundaries of Canad
 
 ### Hours of Operation
 
-Splash Works is open weekends starting May 28, 2016 and daily from Thursday June 16 to Monday September 5.
+Splash Works is open weekends starting May 287 2017 and daily from June 16 to September 4.
 
 ### Location
 
@@ -38,15 +38,13 @@ L6A 3X5
 Splash Works water park is included in the admission price for Canada’s Wonderland.
 
 Single Day Adult  
-Online: $47.99
+Online: $49.99
 
-3 Day Advanced Ticket  
-Online: $39.99
+Junior/Senior Rate 
+Online: $38.99
 
-Admission and Fast Lane Plus  
-Online: $88.99
-
-Season's Passes from as low as $69.99
+After 4pm Admission
+Online: $29.99
 
 [Click here to purchase tickets online](https://www.canadaswonderland.com/ticket-category/Daily-Tickets#) 
 
