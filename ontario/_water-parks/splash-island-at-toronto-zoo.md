@@ -20,10 +20,10 @@ Splash Island at Toronto Zoo is two acres of water park fun. Not only is Splash 
 
 ### Hours of Operation
 
-May 21, 2016 - June 30, 2016: Open weekends and holidays only from 10:30am to 6:00pm  
-July 1, 2016 - September 5, 2016: open daily from 10:30am to 6:00pm  
-September 6, 2-16 - September 11, 2016: open weekends and holidays only from 10:30am to 5:30pm  
-September 14, 2016: closed for the season 
+May 20, 2017 - June 30, 2017: Open weekends and holidays only from 10:30am to 6:00pm  
+July 1, 2017 - September 4, 2017: open daily from 10:30am to 6:00pm  
+September 5 - 10, 2017: open weekends and holidays only from 10:30am to 5:30pm  
+September 11, 2017: closed for the season 
 
 ### Location
 
@@ -40,9 +40,9 @@ Phone: 416-392-5929
 
 ### Admission Prices
 
-General Admission (ages 13-64): $28.00  
-Seniors (65 plus)" $23.00  
-Child (ages 3-12)" $18.00  
+General Admission (ages 13-64): $29.00  
+Seniors (65 plus)" $24.00  
+Child (ages 3-12)" $19.00  
 Child (ages 2 and under): Free  
 
 Access to Splash Island is free with purchase of a general admission to the zoo.
